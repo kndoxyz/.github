@@ -1,6 +1,6 @@
 # KnDo XYZ
 
-## Just vibe it.
+## Why bother ask? Just vibe it.
 
 ### [kndo.xyz](https://kndo.xyz)
 
