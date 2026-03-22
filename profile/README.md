@@ -1,6 +1,6 @@
 # KnDo XYZ
 
-## Don't think. Just vibe it.
+## Don't overthink. Just vibe it.
 
 ### [kndo.xyz](https://kndo.xyz)
 
