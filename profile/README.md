@@ -1,6 +1,6 @@
-# KnDo Network
+# KnDo
 
-## Simply Vibe It
+## Yes! Just vibe it.
 
 ### [kndo.xyz](https://kndo.xyz)
 
